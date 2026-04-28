@@ -1,4 +1,4 @@
-# 🧠 Smart To-Do Manager
+# Smart To-Do Manager
 
 A modern Java Swing-based task management application with a sleek UI and productivity tracking.
 
