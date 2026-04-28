@@ -43,5 +43,5 @@ A modern Java Swing-based task management application with a sleek UI and produc
 
 
 ## 👨‍💻 Author
-Prafull Ranpise
+Prafull Ranpise,
 Ashish Avhad
