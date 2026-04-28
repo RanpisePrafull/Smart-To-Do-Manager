@@ -36,17 +36,12 @@ A modern Java Swing-based task management application with a sleek UI and produc
 ---
 
 ## 📸 Screenshots
-(Add images here)
+<img width="1102" height="741" alt="Screenshot 2026-04-29 050842" src="https://github.com/user-attachments/assets/8b0674a3-72b3-4e05-a5f4-c356ffe87ad4" />
+
 
 ---
 
-## 📌 Future Improvements
-- Add login system
-- Database integration (MySQL)
-- Notifications/reminders
-- Dark/Light mode toggle
-
----
 
 ## 👨‍💻 Author
 Prafull Ranpise
+Ashish Avhad
